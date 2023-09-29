@@ -4,7 +4,7 @@ website for eyesware
 
 Welcome to Lensmart
 Lensmart is a leading e-commerce company that maintains an online optical store packed with both classic and trendy eyeglasses, lenses and more at affordable prices. These glasses can be easily ordered online by the customers, who will get them delivered with many discounts that come and go.This is a collaborative Project from Masai School in the Construct Week With the 5 team members within 5 Days.
-Deployed URL 👉 https://lensmart-in.netlify.app/
+Deployed URL 👉[ https://lensmart-in.netlify.app/](https://6516e70d27a23d05f952ecee--snazzy-kashata-86b065.netlify.app/)
 
 Our Team Members
 
